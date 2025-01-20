@@ -1,0 +1,1 @@
+export { getForecastData } from "./model/services/getForecastData";

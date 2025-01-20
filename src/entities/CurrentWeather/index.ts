@@ -1,0 +1,1 @@
+export { getCurrentWeather } from "./model/services/getCurrentWeather";

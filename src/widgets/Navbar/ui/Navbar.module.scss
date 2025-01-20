@@ -1,0 +1,17 @@
+.navbar {
+  // height: 60px;
+  padding: 15px;
+  width: 100%;
+  background-color: #a1fc03;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 16px;
+  row-gap: 8px;
+  flex-wrap: wrap;
+
+  &_input {
+    display: flex;
+    align-items: center;
+  }
+}
